@@ -1,0 +1,51 @@
+.contenur_aboutme{
+    background:#161625;
+    background-image: url("./img/bg-texture.png");
+    text-align: center;
+    min-height: 32rem;
+    width: 100%;
+}
+.content_alll{
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* padding-right: 4rem; */
+    box-sizing: border-box;
+}
+.img_about{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.all_advantag{
+    display: flex;
+    flex-direction: row;
+    
+}
+.advantage{
+    
+    border-radius: 20px;
+    width: 13rem;
+    margin-left: 0.8rem;
+    padding: 7px 5px;
+    background: #2c2c6c;
+}
+.advantage p{
+    font-size: 0.9rem;
+}
+.leftt_box{
+    width: 500px;
+    text-align: left;
+}
+.rightt_box{
+    width:500px;
+}
+.summary{
+    margin-top: 3rem;
+    width: 100%;
+    text-align: left;
+}
+.about_parg{
+    color: #4db5ff;
+}

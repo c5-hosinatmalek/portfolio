@@ -1,0 +1,74 @@
+.conenure_skills{
+    background:#161625;
+    background-image: url("./img/bg-texture.png");
+   text-align: center;
+  
+   
+    min-height: 40rem;
+    width: 100%;
+}
+.contener_allfb{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.content_all{
+   
+    border-radius: 20px;
+   text-align: center;
+   margin-right: 2rem;
+   height: 280px;
+   width: 550px;
+   margin-bottom: 2rem;
+   background: #2c2c6c;
+  
+}
+.everyone {
+    padding: 0;
+    text-align: center;
+ 
+ 
+  box-sizing: border-box;
+  
+}
+.everyone h1{
+    padding: 0;
+    margin: 0;
+   font-size: 2rem;
+   font-weight: 400;
+}
+.everyone{
+    width: 17rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    text-align: left;
+}
+.content_techskills{
+    text-align: center;
+padding-left: 15px;
+    display: flex;
+    flex-direction: row;
+   
+  justify-content: center;
+   
+   
+   
+}
+.name_box{
+    margin: 1rem 0;
+    font-size: 1.5rem;
+}
+.name_section{
+    padding: 5rem 0;  
+    color: #4db5ff;
+}
+.right_box{
+    margin-right: 1rem;
+    width: 14rem;
+   
+}
+.lift_box{
+    width: 14rem;
+}

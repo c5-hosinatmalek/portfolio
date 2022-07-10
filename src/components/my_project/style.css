@@ -1,0 +1,38 @@
+.contenur_progect{
+   text-align: center;
+    background:#161625;
+    background-image: url("./img/bg-texture.png");
+    height: 40rem;
+}
+
+.content_progect {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin-top: 5rem;
+   
+}
+.linkprgect{
+    background:  #2c2c6c;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.content_progect a{
+  
+    color: black;
+}
+.progect img{
+    width: 100%;
+    height: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0.5rem;
+}
+.progect {
+    text-align: center;
+}
+.gbgb{
+    color: #4db5ff;
+}
