@@ -51,3 +51,24 @@ margin-left: 10rem;
     border-left: 2px solid white;
     padding-left: 5px;
 }
+@media (max-width:500px){
+    .contenur_computershope{
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+    width: 100%;
+    min-height: 39.7rem;
+    background:#161625;
+    background-image: url("./img/bg-texture.png");
+    padding: 1rem 1rem;
+    }
+    .slider_img h3{
+        color: rgb(12, 11, 11) !important;
+        font-weight: 700;
+        background: rgba(54, 52, 52, 0.486);
+        width: 15rem;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 2rem;
+        }
+}
