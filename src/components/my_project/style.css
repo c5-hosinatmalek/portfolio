@@ -36,3 +36,12 @@
 .gbgb{
     color: #4db5ff;
 }
+@media (max-width:500px){
+    .contenur_progect{
+        text-align: center;
+         background:#161625;
+         background-image: url("./img/bg-texture.png");
+         height: 40rem;
+         padding: 0 1rem;
+     }
+}

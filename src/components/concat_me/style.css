@@ -75,3 +75,24 @@ form input:active{
 .contenur_concat a{
 text-decoration: none;
 }
+@media (max-width:500px){
+    .content_concat{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    }
+    .email{
+        background: #2c2c6c;
+        border-radius: 20px;
+        margin-bottom: 2rem;
+        padding: 0.7rem;
+        width: 300px;
+    }
+    .left_boxcon{
+        margin-right: 0;
+        margin-bottom: 3rem;
+    }
+}

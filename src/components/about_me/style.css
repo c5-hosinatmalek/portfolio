@@ -49,3 +49,48 @@
 .about_parg{
     color: #4db5ff;
 }
+
+@media (max-width:500px){
+    .content_alll{
+        padding-top: 5rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* padding-right: 4rem; */
+        box-sizing: border-box;
+        text-align: center;
+       
+    }
+    .leftt_box{
+        width: 300px;
+        text-align: center;
+    }
+    .rightt_box{
+        width:500px;
+       
+    }
+    .all_advantag{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 2rem;
+        
+    }
+    .advantage{
+    
+        border-radius: 20px;
+        width: 18rem;
+        height: 7rem;
+        margin-top: 0.8rem;
+        padding: 7px 5px;
+        background: #2c2c6c;
+    }
+    .summary{
+        margin-top: 3rem;
+        width: 100%;
+        text-align: center;
+        padding: 1rem;
+    }
+}

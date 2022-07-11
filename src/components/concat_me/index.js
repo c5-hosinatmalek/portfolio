@@ -35,13 +35,13 @@ const CONCAT=()=>{
                         <h><SiGmail/> </h>
                         <h1>Email</h1>
                         <p>malek.f.hosinat@gmail.com</p>
-                        <a href="">Send a message</a>
+                        <a href="mailto:malek.f.hosinat@gmail.com">Send a message</a>
                     </div>
                     <div className="whatsapp">
                         <h><BsWhatsapp/> </h>
                         <h1>whatsapp</h1>
-                        <p>0774017373</p>
-                        <a href="">Send a message</a>
+                        <p>+962789821306</p>
+                        <a href="https://api.whatsapp.com/send?phone=+962789821306">Send a message</a>
                     </div>
                 </div>
                 <form ref={form} onSubmit={sendEmail} >

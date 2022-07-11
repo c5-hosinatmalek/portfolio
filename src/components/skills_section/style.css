@@ -72,3 +72,45 @@ padding-left: 15px;
 .lift_box{
     width: 14rem;
 }
+@media (max-width:500px){
+    .content_all{
+   
+        border-radius: 20px;
+       text-align: center;
+       margin-right: 2rem;
+       height: 280px;
+       width: 550px;
+       margin-bottom: 2rem;
+       background: #2c2c6c;
+      
+    }
+    .content_all{
+   
+        border-radius: 20px;
+       text-align: center;
+       margin-right: 0;
+       height: 200px;
+       width: 350px;
+       margin-bottom: 2rem;
+       background: #2c2c6c;
+      
+    }
+    .right_box{
+       
+        width: 10rem;
+       
+    }
+    .lift_box{
+        width: 10rem;
+    }
+    .everyone h1{
+        padding: 0;
+        margin: 0;
+       font-size: 1.2rem;
+       font-weight: 400;
+       width: fit-content;
+    }
+    .everyone{
+        width: fit-content;
+    }
+}

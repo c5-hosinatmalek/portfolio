@@ -10,7 +10,7 @@ import COMPUTERSHOP from './components/computershope';
 function App() {
   return (
     <div className="App">
-     <NAVBAR/>
+    
      
      
       

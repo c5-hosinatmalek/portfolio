@@ -10,6 +10,7 @@ import CONCAT from "../concat_me"
 import Button from 'react-bootstrap/Button';
 import ABOUTME from "../about_me";
 import MYPROGECT from "../my_project";
+import cv from './img/Helene Paquet.pdf'
 import "./style.css"
 const MAINPAGE=()=>{
 return(
@@ -20,16 +21,16 @@ return(
         <h1>Hi, I'm MALEK  </h1>
         <p>I Software developer full stack</p>
         <div className="icon_social" >
-        <Link to={"/"} >  <FaFacebookSquare/></Link>
+        <a href="https://www.facebook.com/profile.php?id=100011596065484" >  <FaFacebookSquare/></a>
         <Link to={"/"} >  <FaInstagramSquare/></Link>
-        <Link to={"/"} >  <FaGithubSquare/></Link>
-        <Link to={"/"} >  <BsLinkedin/></Link>
+        <a href={"https://github.com/hosinatmalek"} >  <FaGithubSquare/></a>
+        <a href={"https://www.linkedin.com/in/malek-hosinat/"} >  <BsLinkedin/></a>
           
           
           
           
         </div>
-        <a className="downlode" href={my_img}  download >download cv</a>
+        <a className="downlode" href={cv}  download >Download Resume</a>
       
         </div>
        

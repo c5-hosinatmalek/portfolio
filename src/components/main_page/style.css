@@ -51,3 +51,21 @@ word-spacing: 0.5rem;
     background: #4db5ffc2;
     border: none;
 }
+
+@media (max-width:500px){
+    .contenur_mainpage h1{
+        margin-top: 1.5rem;
+        font-size: 2rem;
+        word-spacing: 0.5rem;
+        }
+        .contenur_mainpage p{
+            font-size: 1.1rem;
+            word-spacing: 0.2rem;
+        }
+        .icon_social a{
+            text-decoration: none;
+            margin-right: 0.5rem;
+            font-size: 2rem;
+            
+        }
+}
