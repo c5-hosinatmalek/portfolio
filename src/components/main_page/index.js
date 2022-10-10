@@ -19,7 +19,7 @@ return(
         <div className="content_main" >
         <img  src={my_img}  alt="img_malek"/>
         <h1>Hi, I'm MALEK  </h1>
-        <p>I Software developer full stack</p>
+        <p>I'm Software developer full stack</p>
         <div className="icon_social" >
         <a href="https://www.facebook.com/profile.php?id=100011596065484" >  <FaFacebookSquare/></a>
         <Link to={"/"} >  <FaInstagramSquare/></Link>

@@ -46,7 +46,7 @@ const CONCAT=()=>{
                 </div>
                 <form ref={form} onSubmit={sendEmail} >
                     <div className="input-bpxx">
-                        <input type="text" placeholder="Enter your name " name="name" / >
+                        <input type="text" placeholder="Enter your email " name="name" / >
 
                     </div>
                     <div className="input-bpxx">
