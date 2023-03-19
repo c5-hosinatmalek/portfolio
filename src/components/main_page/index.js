@@ -40,6 +40,8 @@ return(
     <SKILLS/>
     <MYPROGECT/>
     <CONCAT/>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3925169946631408"
+     crossorigin="anonymous"></script>
     </div>
 )
 }

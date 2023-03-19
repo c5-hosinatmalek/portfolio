@@ -25,7 +25,8 @@ function App() {
       <Route path='/' element={ <CONCAT/>} />
         <Route path='/computer-shope' element={<COMPUTERSHOP/>} />
       </Routes>
-
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3925169946631408"
+     crossorigin="anonymous"></script>
     </div>
   );
 }
